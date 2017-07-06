@@ -103,7 +103,7 @@ head(salary.average) # first six rows of average salary by department (alphabeti
 
 salary.average %>% filter(department_name == 'Boston Police Department')
 
-# Exercise: The `salary.average` data frame is currently ordered alphabetically by department. How would you sort this dataset by average earnings, from highest to lowest?
+# Exercise: The `salary.average` data frame is ordered alphabetically by department. How would you sort this dataset by average earnings, from highest to lowest?
 
 #### 2. Merging datasets ####
 
